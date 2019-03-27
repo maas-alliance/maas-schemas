@@ -29,7 +29,8 @@
   "dependencies": {
     "ajv": "^6.8.1",
     "ajv-merge-patch": "^4.1.0",
-    "fast-glob": "^2.2.6"
+    "fast-glob": "^2.2.6",
+    "json-schema-to-openapi-schema": "^0.3.0"
   },
   "devDependencies": {
     "chai": "^4.2.0",
